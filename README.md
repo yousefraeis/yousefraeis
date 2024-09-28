@@ -28,8 +28,6 @@ I welcome any inquiries or opportunities for collaboration. Don’t hesitate to 
 
 ---
 
-Let me know if you need any more adjustments!
-
 <div style="display: flex; align-items: center; justify-content: center;">
     <img align="left" alt="html" width="30px" style="padding-right: 10px;" src="./html-1.svg" />
     <img align="left" alt="css" width="30px" style="padding-right: 10px;" src="./css-3.svg" />
