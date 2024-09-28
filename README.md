@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello! I'm Yousef Raeis 👋
 
-<!--
-**yousefraeis/yousefraeis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+I’m a student at Mansour College, currently working in web development. I have a strong passion for creating dynamic web applications.
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- *Languages & Frameworks*: React, Tailwind CSS, Bootstrap
+- *Focus*: Front-End Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Projects
+Check out some of my projects on my profile to see what I've been working on!
+
+### 📞 Contact Me
+- *Phone*: +20 10 155200 12
+- *Email*: [your email here]
+
+Feel free to reach out if you have any questions or just want to connect! 👍
