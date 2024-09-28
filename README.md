@@ -1,3 +1,8 @@
+<br>
+<div align="center">
+    <img src="https://github.com/yousefraeis/yousefraeis/blob/21b8e02ab1aa395414de9b09f935cf2ead1d3478/IMG_GitHub.JPG?raw=true" alt="Yousef's Photo" width="200"/>
+</div>
+<br>
 # Hello! I'm Yousef Raeis 👋
 
 ### 🎓 About Me
