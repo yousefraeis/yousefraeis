@@ -21,8 +21,8 @@ Feel free to explore my projects on my [GitHub profile](your-github-link-here). 
 
 ### Contact Me
 - **Phone**: +20 10 155200 12  
-- **Email**: [your email here]  
-- **LinkedIn**: [your LinkedIn profile here]  
+- **Email**: yousefraeis@outlook.com  
+- **LinkedIn**: https://github.com/yousefraeis  
 
 I welcome any inquiries or opportunities for collaboration. Don’t hesitate to reach out—I look forward to connecting with you! 👍
 
