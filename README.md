@@ -26,6 +26,8 @@ Feel free to explore my projects on my [GitHub profile](your-github-link-here). 
 
 I welcome any inquiries or opportunities for collaboration. Don’t hesitate to reach out—I look forward to connecting with you! 👍
 
+---
+
 <div style="display: flex; align-items: center; justify-content: center;">
     <img align="left" alt="html" width="30px" style="padding-right: 10px;" src="./html-1.svg" />
     <img align="left" alt="css" width="30px" style="padding-right: 10px;" src="./css-3.svg" />
