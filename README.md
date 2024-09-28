@@ -29,3 +29,13 @@ I welcome any inquiries or opportunities for collaboration. Don’t hesitate to 
 ---
 
 Let me know if you need any more adjustments!
+
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img align="left" alt="html" width="30px" style="padding-right: 10px;" src="./html-1.svg" />
+    <img align="left" alt="css" width="30px" style="padding-right: 10px;" src="./css-3.svg" />
+    <img align="left" alt="js" width="30px" style="padding-right: 10px;" src="./javascript-1.svg" />
+    <img align="left" alt="react" width="30px" style="padding-right: 10px;" src="./react-2.svg" />
+    <img align="left" alt="bootstrap" width="30px" style="padding-right: 10px;" src="./bootstrap-5-1.svg" />
+    <img align="left" alt="tailwind" width="30px" style="padding-right: 10px;" src="./tailwind-css-2.svg" />
+</div>
+
