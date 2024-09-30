@@ -35,7 +35,7 @@ I welcome any inquiries or opportunities for collaboration. Don’t hesitate to 
     <img align="left" alt="react" width="30px" style="padding-right: 10px;" src="./react-2.svg" />
         <img align="left" alt="tailwind" width="30px" style="padding-right: 10px;" src="./tailwind-svgrepo-com.svg" />
     <img align="left" alt="bootstrap" width="30px" style="padding-right: 10px;" src="./bootstrap-svgrepo-com.svg" />
-    <img align="left" alt="sasss" width="30px" style="padding-right: 10px;" src="./sass-1.svg" />
+    <img align="left" alt="sasss" width="30px" style="padding-right: 10px;" src="./sass_logo_sass_icon.png" />
 
     
 </div>
