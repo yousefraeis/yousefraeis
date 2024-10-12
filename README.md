@@ -33,9 +33,10 @@ I welcome any inquiries or opportunities for collaboration. Don’t hesitate to 
     <img align="left" alt="css" width="30px" style="padding-right: 10px;" src="./css-3.svg" />
     <img align="left" alt="js" width="30px" style="padding-right: 10px;" src="./javascript-1.svg" />
     <img align="left" alt="react" width="30px" style="padding-right: 10px;" src="./react-2.svg" />
-        <img align="left" alt="tailwind" width="30px" style="padding-right: 10px;" src="./tailwind-svgrepo-com.svg" />
+    <img align="left" alt="tailwind" width="30px" style="padding-right: 10px;" src="./tailwind-svgrepo-com.svg" />
     <img align="left" alt="bootstrap" width="30px" style="padding-right: 10px;" src="./bootstrap-svgrepo-com.svg" />
     <img align="left" alt="sasss" width="30px" style="padding-right: 10px;" src="./sass_logo_sass_icon.png" />
+    <img align="left" alt="framer motion" width="30px" style="padding-right: 10px;" src="./framer-ar21.svg" />
 
     
 </div>
