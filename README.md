@@ -1,4 +1,4 @@
-# Hello! I’m Youssef Amin Raeis
+# Hello! I’m Youssef Raeis
 
 A Front-End Developer crafting engaging user experiences
 
@@ -35,12 +35,12 @@ Dive into the future with this immersive Next.js project.
 
 > Packed with animations and responsive design, it brings the Metaverse to life.
 
-Check out more of my work on my [GitHub profile](https://github.com).
+Check out more of my work on my [profile](https://raeis.netlify.app/).
 
 ## Contact Me
   - 📞 Phone: +20 10 155200 12
-  - 📧 Email: raeis.pro@outlook.com
-  - 🔗 [LinkedIn: Connect with me](https://www.linkedin.com)
+  - 📧 Email: raeis.pro@gmail.com
+  - 🔗 [LinkedIn: Connect with me](http://linkedin.com/in/yousef-magar)
 
 I’m always open to new opportunities and collaborations—let’s create something amazing together!
 
