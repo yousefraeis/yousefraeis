@@ -25,12 +25,12 @@ I’m a passionate front-end developer specializing in building dynamic, respons
 
 ## 💼 Featured Projects
 
-### Brainwave: Next-Level UI/UX Website
+### [Brainwave: Stunning UI/UX Design](https://brainwave-nine-taupe.vercel.app/)
 A cutting-edge web design project built with React and Tailwind CSS, featuring sleek animations powered by Framer Motion.
 
 > Explore how style meets functionality in this modern, interactive website.
 
-### Metaverse Experience
+### [Metaverse: Immersive React.js Website](https://metaverse-umber-xi.vercel.app/)
 Dive into the future with this immersive Next.js project.
 
 > Packed with animations and responsive design, it brings the Metaverse to life.
